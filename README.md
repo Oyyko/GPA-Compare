@@ -1,7 +1,9 @@
 # GPA-Compare
 A Small Program can be used to compare your GPA with another one's without telling him/her your specific GPA number.
 
-A similar problem is the famous "Yao's millionaire problem"
+A similar problem is the famous "Yao's millionaire problem".
+
+Usage: Download the "GPA比较器.exe" and follow the instruction of the program.
 
 本项目可以让您和别人比较GPA，并且无需知道对方的具体GPA，也不需要告诉对方你的具体GPA。
 
